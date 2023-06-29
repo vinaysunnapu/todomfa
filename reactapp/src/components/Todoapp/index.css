@@ -1,0 +1,32 @@
+.container {
+    width: 50%;
+  }
+  
+  .button {
+    height: 30px;
+  }
+  
+  .nav-container {
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+  }
+  .profile-image {
+    width: 40px;
+    height: 40px;
+  }
+  
+  .logout-button {
+    background-color: brown;
+    border: none;
+    padding: 6px;
+    color: white;
+    border-radius: 6px;
+  }
+  .logo {
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+  

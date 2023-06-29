@@ -1,0 +1,109 @@
+.login-container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .form-sub {
+    width: 100%;
+  }
+  .login-form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    border-radius: 8px;
+    width: 100%;
+    max-width: 350px;
+    background-color: azure;
+  }
+  
+  .login-image {
+    width: 30%;
+    height: 80%;
+  }
+  .login-button {
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 14px;
+    color: #ffffff;
+    height: 40px;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 2px;
+    background-color: #0b69ff;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  .re-button {
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 14px;
+    color: #ffffff;
+    height: 40px;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 2px;
+    background-color: #af4309;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  .login-heading {
+    font-family: roboto;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .login-form-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .username-input-field {
+    font-size: 14px;
+    height: 40px;
+    border: 1px solid #d7dfe9;
+    background-color: #e2e8f0;
+    color: #64748b;
+    border-radius: 2px;
+    margin-top: 5px;
+    padding: 8px 16px 8px 16px;
+    outline: none;
+  }
+  
+  .password-input-field {
+    font-size: 14px;
+    height: 40px;
+    border: 1px solid #d7dfe9;
+    background-color: #e2e8f0;
+    color: #64748b;
+    border-radius: 2px;
+    margin-top: 5px;
+    padding: 8px 16px 8px 16px;
+    outline: none;
+  }
+  
+  .input-label {
+    margin-bottom: 0px;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 16px;
+    color: #475569;
+  }
+  .condition {
+    color: red;
+    font-family: roboto;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  

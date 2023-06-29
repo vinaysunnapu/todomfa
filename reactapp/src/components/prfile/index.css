@@ -1,0 +1,30 @@
+.profile-container{
+    background-color: azure;
+    width:50%;
+    padding:25px;
+    margin:auto;
+    margin-top:10%;
+    border: 5px solid orange;
+
+}
+.profile-heading{
+    font-family:roboto;
+    font-size:30px;
+    font-weight: bold;
+    color:brown;
+    text-align:center;
+    text-decoration: underline;
+}
+.details{
+    font-family: bree serif;
+    font-weight: 400;
+    color:chocolate;
+    font-size:20px;
+    margin-top:10%;
+    margin-left:40%;
+}
+
+.margin{
+    margin-left:50%;
+    margin-top:5%;
+}

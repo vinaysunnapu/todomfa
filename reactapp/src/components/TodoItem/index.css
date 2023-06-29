@@ -1,0 +1,13 @@
+.todo-para {
+    width: 100%;
+  }
+  .text {
+    font-family: roboto;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
+  .list {
+    border-radius: 5px;
+  }
+  

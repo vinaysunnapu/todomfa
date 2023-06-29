@@ -1,0 +1,64 @@
+.register-container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 64px 48px 64px 48px;
+    gap: 100px;
+    background-color: antiquewhite;
+  }
+  
+  .reg-container {
+    box-shadow: 0px 8px 40px rgba(7, 7, 7, 0.08);
+    background-color: aliceblue;
+    width: 40%;
+    padding: 3%;
+    border-radius: 10px;
+  }
+  
+  .reg-heading {
+    font-family: roboto;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .reg-image {
+    width: 50%;
+    height: 100%;
+  }
+  
+  .reg-form-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .input {
+    border: 2px solid gray;
+  }
+  .reg-label {
+    font-family: roboto;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  .gender-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .register-button {
+    border: none;
+    color: #ffffff;
+    background-color: blue;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  .re-cond {
+    color: red;
+    font-family: roboto;
+  }
+  
